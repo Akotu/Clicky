@@ -1,0 +1,74 @@
+[
+    {   "id": 1,
+        "image": "./Images/angel.jpg",
+        "clicked": false
+    },
+    {   "id": 2,
+        "image": "./Images/beta.jpg",
+        "clicked": false
+    },
+    {   "id": 3,
+        "image": "./Images/bubbles.jpg",
+        "clicked": false
+    },
+    {   "id": 4,
+        "image": "./Images/cardinal.jpg",
+        "clicked": false
+    },
+    {   "id": 5,
+        "image": "./Images/clown.jpg",
+        "clicked": false
+    },
+    {   "id": 6,
+        "image": "./Images/crab.jpg",
+        "clicked": false
+    },
+    {   "id": 7,
+        "image": "./Images/eel.jpg",
+        "clicked": false
+    },
+    {   "id": 8,
+        "image": "./Images/fish1.jpg",
+        "clicked": false
+    },
+    {   "id": 9,
+        "image": "./Images/fish2.jpg",
+        "clicked": false
+    },
+    {   "id": 10,
+        "image": "./Images/goby.jpg",
+        "clicked": false
+    },
+    {   "id": 11,
+        "image": "./Images/jelly.jpg",
+        "clicked": false
+    },
+    {   "id": 12,
+        "image": "./Images/lion.jpg",
+        "clicked": false
+    },
+    {   "id": 13,
+        "image": "./Images/narwhal.jpg",
+        "clicked": false
+    },
+    {   "id": 14,
+        "image": "./Images/puffer.jpg",
+        "clicked": false
+    },
+    {   "id": 15,
+        "image": "./Images/seahorse.jpg",
+        "clicked": false
+    },
+    {   "id": 16,
+        "image": "./Images/shark.jpg",
+        "clicked": false
+    },
+    {   "id": 17,
+        "image": "./Images/shrimp.jpg",
+        "clicked": false
+    },
+    {   "id": 18,
+        "image": "./Images/swordfish.jpg",
+        "clicked": false
+    }
+]
