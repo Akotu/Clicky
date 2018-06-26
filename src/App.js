@@ -8,6 +8,8 @@ import Column from './Layouts/Column';
 import figures from './figures.json';
 import Row from './Layouts/Row';
 import './App.css';
+import './normalize.css';
+
 
 function shuffleFigs(array) {
   for (let i = array.length -1; i > 0; i--) {
@@ -68,7 +70,7 @@ render() {
   return (
     <Wrapper>
       <Navbar
-      title='Clicky Game'
+      title='Clicky!'
       rightWrong={this.state.rightWrong}
       score={this.state.currentScore}
       topScore={this.state.topScore}
