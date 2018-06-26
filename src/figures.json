@@ -1,6 +1,6 @@
 [
     {   "id": 1,
-        "image": "./Images/angel.jpg",
+        "image": "../public/images/angel.jpg",
         "clicked": false
     },
     {   "id": 2,
