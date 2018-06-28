@@ -1,74 +1,74 @@
 [
     {   "id": 1,
-        "image": "./images/angel.jpg",
+        "image": "./public/images/angel.jpg",
         "clicked": false
     },
     {   "id": 2,
-        "image": "./images/beta.jpg",
+        "image": "./public/images/beta.jpg",
         "clicked": false
     },
     {   "id": 3,
-        "image": "./images/bubbles.jpg",
+        "image": "./public/images/bubbles.jpg",
         "clicked": false
     },
     {   "id": 4,
-        "image": "./images/cardinal.jpg",
+        "image": "./public/images/cardinal.jpg",
         "clicked": false
     },
     {   "id": 5,
-        "image": "./images/clown.jpg",
+        "image": "./public/images/clown.jpg",
         "clicked": false
     },
     {   "id": 6,
-        "image": "./images/crab.jpg",
+        "image": "./public/images/crab.jpg",
         "clicked": false
     },
     {   "id": 7,
-        "image": "./images/eel.jpg",
+        "image": "./public/images/eel.jpg",
         "clicked": false
     },
     {   "id": 8,
-        "image": "./images/fish1.jpg",
+        "image": "./public/images/fish1.jpg",
         "clicked": false
     },
     {   "id": 9,
-        "image": "./images/fish2.jpg",
+        "image": "./public/images/fish2.jpg",
         "clicked": false
     },
     {   "id": 10,
-        "image": "./images/goby.jpg",
+        "image": "./public/images/goby.jpg",
         "clicked": false
     },
     {   "id": 11,
-        "image": "./images/jelly.jpg",
+        "image": "./public/images/jelly.jpg",
         "clicked": false
     },
     {   "id": 12,
-        "image": "./images/lion.jpg",
+        "image": "./public/images/lion.jpg",
         "clicked": false
     },
     {   "id": 13,
-        "image": "./images/narwhal.jpg",
+        "image": "./public/images/narwhal.jpg",
         "clicked": false
     },
     {   "id": 14,
-        "image": "./images/puffer.jpg",
+        "image": "./public/images/puffer.jpg",
         "clicked": false
     },
     {   "id": 15,
-        "image": "./images/seahorse.jpg",
+        "image": "./public/images/seahorse.jpg",
         "clicked": false
     },
     {   "id": 16,
-        "image": "./images/shark.jpg",
+        "image": "./public/images/shark.jpg",
         "clicked": false
     },
     {   "id": 17,
-        "image": "./images/shrimp.jpg",
+        "image": "./public/images/shrimp.jpg",
         "clicked": false
     },
     {   "id": 18,
-        "image": "./images/swordfish.jpg",
+        "image": "./public/images/swordfish.jpg",
         "clicked": false
     }
 ]
