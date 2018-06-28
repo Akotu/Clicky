@@ -1,7 +1,7 @@
 import React from 'react';
 import './Card.css';
 
-const FigCard = props => (
+const Card = props => (
     <div
     className='card'
     value={props.id}
