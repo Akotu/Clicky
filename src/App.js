@@ -70,7 +70,7 @@ render() {
   return (
     <Wrapper>
       <Navbar
-      title='Clicky!'
+      title='Clicky! underwater style'
       rightWrong={this.state.rightWrong}
       score={this.state.currentScore}
       topScore={this.state.topScore}
