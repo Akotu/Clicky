@@ -78,7 +78,7 @@ render() {
       />
 
       <Title>
-        Don't click on the same picture twice, good luck!
+        Do not click on the same picture twice, good luck!
       </Title>
       <Container>
         <Row>
