@@ -13,4 +13,4 @@ const FigCard = props => (
     </div>
 );
 
-export default FigCard;
+export default Card;
